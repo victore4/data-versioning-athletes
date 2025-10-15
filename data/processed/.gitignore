@@ -1,3 +1,6 @@
 *
 !.gitignore
 !metrics_v2_dp_vs_nodp.csv
+
+# Allow DVC pointer files
+!*.dvc
